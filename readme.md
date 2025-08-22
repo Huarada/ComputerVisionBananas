@@ -226,12 +226,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📞 Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seuemail@exemplo.com
+Lucas Harada  - lucasharada@usp.br
 
-Link do Projeto: [https://github.com/seu-usuario/banana-detection](https://github.com/seu-usuario/banana-detection)
-
-## 🙏 Agradecimentos
-
-- [TensorFlow](https://tensorflow.org/) - Framework de deep learning
-- [Inception Network](https://arxiv.org/abs/1409.4842) - Arquitetura original
-- Comunidade de visão computacional
+Link do Projeto: [https://github.com/Huarada/ComputerVisionBananas](https://github.com/Huarada/ComputerVisionBananas)
